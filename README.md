@@ -1,6 +1,8 @@
-# first run npm install
+# Install
 
-this will install all necessary packages
+get the zip file from github and inside it run : ### `npm install`
+
+this will install the necessary node modules to run the app.
 
 # Getting Started with Create React App
 
